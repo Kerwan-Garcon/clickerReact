@@ -1,1 +1,37 @@
-<mxfile host="app.diagrams.net" modified="2023-05-15T10:30:59.223Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36 OPR/97.0.0.0" etag="5mcOOtaSEekAXFRCIYGI" version="20.5.0" type="github"><diagram name="Page-1" id="3e8102d1-ef87-2e61-34e1-82d9a586fe2e">5ZlZb+M2EMc/jR9r6Lb8uHGOFmiBRVO0jwJN0RKxFClQlI9++g4tSpZMJnAWduHN+iER/8NDnPl5eHgWrqr9i0R1+YfICZsFXr6fhY+zIPAjL4V/Wjl0SrL0O6GQNDeVTsIr/ZcY0TNqS3PSTCoqIZii9VTEgnOC1URDUordtNpGsOmoNSqIJbxixGz1H5qr0qi+550MvxJalGboNDaGNcLfCilabsbjgpPOUqG+G1O1KVEudiMpfJqFKymE6p6q/Yow7dbeY1275zeswytLwtUlDRZekiSLOMFptF4vQ/yL6WGLWGvcYF5UHXq/QA8QAig87EqqyGuNsLbsgALQSlUxKPnweHQB0SN5UBqmqgtYVBT3BiXFt8HFuuFGcPWMKso0OX8TmSOOjGww8aOh4UowIUE6ehkqUcZ6aRaEnpcsj33anumnSqQi+5FkPPVCREWUPEAVYw1SE7XDgEJX3p3wiHs6yhEZg4gMksXQ9yk28GDCc2GoAitUT1wRWUsKwQkSBoM/5HQLj4V+fGgbyknT9CYYb2R1NDDfaHftO2RCh+4iJjbHj2nsYuXYqZmc4yv1YXAibwoODGWBEyQOcAbxquDEFjgrUVUtp+pgBXYSoRw15RC7UVA/5HSG1oR9FQ1VVHCwYaKpBYP2J4X0+/tZhbVQSlSjCl8YLbRBibpjqNYvW+0LvQ7NxWZDMZm3DZFN99fCbkzahbnmDJXn4+c6aSWMp3REkU1HlLiyyg3YSGw22gbcDxGyM8QrkVvw9YU54gdHCWqzrBshg5Vfh/uusUoWyRQrP7wMq/gGWC0srP4kTS24c6V6AbfWPwdU0nghK45zvm+izhNV4NlExamDqOgGRKV2ooKZScRcOxlwVUEqPfNLNz8/SWprumlCduucl1WDqzJju3co/cUEytCR5mL/f4JyaUH5SAuqnFA+ki1hon6Pys9Emc52gme1JBWcT5qs0+4crsX5xj0N7DU0csCV3gCu/rQ5ousvgksOUy8ODsBWOkTgf6TIm4e+z0MYbiWcX+YKXo3/IKkrOt/4L226XKfCOLkFXfbNz298IxFEu8WqleTzwIIFx6RWk3x056jEy/AMFfuMGLoS0S0287598/TCxNq5yn1FUnHI/aW+tf3kSWjgqgBvkIzqQTi593NiFPkTtHzX9cPSRqvXrotWaKH1xLdUCq73SU7Cvuz07N+52LwaXudhrxqMyLyAwWHnrKOvKG9F22T4gNl7PN4MBzeu348/Mv0MLa6Rys5WPT+Mbd5cp8hbXHf59l3oM+WIY+dyN4l+A65p5nBogm38nLRSTAl6K/ZOsr4zD1nheed2fUL6fWWgJJwe4fx0aRMRO4jwP0wEFE8/rh1tox8vw6f/AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2023-05-15T10:33:02.238Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36 OPR/97.0.0.0" etag="Jezij1GS1Uy01YfL15sY" version="21.2.9" type="github">
+  <diagram name="Page-1" id="dd472eb7-4b8b-5cd9-a60b-b15522922e76">
+    <mxGraphModel dx="1408" dy="748" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="374e34682ed331ee-1" value="Business&lt;div&gt;Model&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;rounded=0;shadow=0;dashed=0;comic=0;fontFamily=Verdana;fontSize=22;fontColor=#0069D1;fillColor=#f5f5f5;strokeColor=#666666;" parent="1" vertex="1">
+          <mxGeometry x="330" y="180" width="400" height="400" as="geometry" />
+        </mxCell>
+        <mxCell id="45236fa5f4b8e91a-1" value="Stage 1" style="ellipse;whiteSpace=wrap;html=1;rounded=0;shadow=0;dashed=0;comic=0;fontFamily=Verdana;fontSize=22;fontColor=#0069D1;fillColor=#f5f5f5;strokeColor=#666666;" parent="1" vertex="1">
+          <mxGeometry x="450" y="40" width="160" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="45236fa5f4b8e91a-2" value="Stage 5" style="ellipse;whiteSpace=wrap;html=1;rounded=0;shadow=0;dashed=0;comic=0;fontFamily=Verdana;fontSize=22;fontColor=#0069D1;fillColor=#f5f5f5;strokeColor=#666666;" parent="1" vertex="1">
+          <mxGeometry x="450" y="560" width="160" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="45236fa5f4b8e91a-3" value="Stage 3" style="ellipse;whiteSpace=wrap;html=1;rounded=0;shadow=0;dashed=0;comic=0;fontFamily=Verdana;fontSize=22;fontColor=#0069D1;fillColor=#f5f5f5;strokeColor=#666666;" parent="1" vertex="1">
+          <mxGeometry x="710" y="300" width="160" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="45236fa5f4b8e91a-4" value="Stage 7" style="ellipse;whiteSpace=wrap;html=1;rounded=0;shadow=0;dashed=0;comic=0;fontFamily=Verdana;fontSize=22;fontColor=#0069D1;fillColor=#f5f5f5;strokeColor=#666666;" parent="1" vertex="1">
+          <mxGeometry x="190" y="300" width="160" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="45236fa5f4b8e91a-5" value="Stage 8" style="ellipse;whiteSpace=wrap;html=1;rounded=0;shadow=0;dashed=0;comic=0;fontFamily=Verdana;fontSize=22;fontColor=#0069D1;fillColor=#f5f5f5;strokeColor=#666666;" parent="1" vertex="1">
+          <mxGeometry x="280" y="130" width="160" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="45236fa5f4b8e91a-6" value="Stage 2" style="ellipse;whiteSpace=wrap;html=1;rounded=0;shadow=0;dashed=0;comic=0;fontFamily=Verdana;fontSize=22;fontColor=#0069D1;fillColor=#f5f5f5;strokeColor=#666666;" parent="1" vertex="1">
+          <mxGeometry x="620" y="130" width="160" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="45236fa5f4b8e91a-7" value="Stage 4" style="ellipse;whiteSpace=wrap;html=1;rounded=0;shadow=0;dashed=0;comic=0;fontFamily=Verdana;fontSize=22;fontColor=#0069D1;fillColor=#f5f5f5;strokeColor=#666666;" parent="1" vertex="1">
+          <mxGeometry x="620" y="470" width="160" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="45236fa5f4b8e91a-8" value="Stage 6" style="ellipse;whiteSpace=wrap;html=1;rounded=0;shadow=0;dashed=0;comic=0;fontFamily=Verdana;fontSize=22;fontColor=#0069D1;fillColor=#f5f5f5;strokeColor=#666666;" parent="1" vertex="1">
+          <mxGeometry x="280" y="470" width="160" height="160" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
